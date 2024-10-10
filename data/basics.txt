@@ -1,0 +1,17 @@
+1. Base Basics	Players	For "baby beginners", we start with the ______ (this deck), then bridge bidding, then play of the hand, and then how scoring scoring works.  More advanced pieces follow that.	basics	not yet	not yet
+1. Base Basics	Players	It takes ______ people to play bridge.	4	not yet	not yet
+1. Base Basics	Players	The person across the table from you is your ______.  The other players are your ______.	partner, opponents	not yet	not yet
+1. Base Basics	Players	In generic terms, the bridge players are known as ______ and ______ versus _____ and ______.	North, South, East, West	not yet	not yet
+1. Base Basics	Cards	A standard card deck of ______ cards is used.  Each "deal" (or "hand") the deck is split among the players, ______ cards each.	52, 13	not yet	not yet
+1. Base Basics	Cards	In bridge, the four suits are ranked: highest ______, then ______, then ______, and lowest ______	Spades, Hearts, Diamonds, Clubs	not yet	not yet
+1. Base Basics	Cards	A suit that outranks all others during play. If a player cannot follow the lead suit, she can play a card from this suit to win, even if this card is lower than the other cards.	Trump	not yet	not yet
+1. Base Basics	Cards	A high card (Ace, King, Queen, Jack, or 10) in any suit.	Honor	not yet	not yet
+1. Base Basics	Bid	The process of players making successive bids in an attempt to determine the contract.	Auction	not yet	not yet
+1. Base Basics	Bid	A trick in which all four players play one card. The highest card in the suit led wins the trick unless a trump is played.	Trick	not yet	not yet
+1. Base Basics	Bid	The final bid that becomes the goal of the declarer and their partner.	Contract	not yet	not yet
+1. Base Basics	Bid	The promise or bet each team makes at the beginning of the game concerning how many tricks they will take.	Bid	not yet	not yet
+1. Base Basics	Bid	The minimum number of tricks declarer must win after the contract has been established, typically 6 tricks.	Book	not yet	not yet
+1. Base Basics	Bid	The suits of hearts and spades. These are more valuable in scoring than minor suits (diamonds and clubs).	Major Suits	not yet	not yet
+1. Base Basics	Bid	The suits of diamonds and clubs. These are less valuable in scoring compared to the major suits.	Minor Suits	not yet	not yet
+1. Base Basics	Bid	A contract where a specific suit (hearts, spades, diamonds, or clubs) is designated as the trump suit.	Suit Contract	not yet	not yet
+1. Base Basics	Bid	A contract where no suit is designated as trump. The highest card in the lead suit wins the trick. In suit ranking, it ranks above the highest suit (Spades).	No Trump (NT)	not yet	not yet
