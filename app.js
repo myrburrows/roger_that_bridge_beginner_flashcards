@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Function to check if the server is running
     function checkServerAvailability() {
-        fetch('https://roger-that-bridge-beginner-flashcards-5bffcbb5d89a.herokuapp.com/status', { method: 'GET' })
+        fetch('https://bridge-beginner-backend-e99869ade150.herokuapp.com/status', { method: 'GET' })
             .then(response => {
                 if (response.ok) {
                     console.log('Server is running.');
@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
         userId = prompt('Enter your user ID:');
         
         if (userId) {
-            fetch('https://roger-that-bridge-beginner-flashcards-5bffcbb5d89a.herokuapp.com/login', {
+            fetch('https://bridge-beginner-backend-e99869ade150.herokuapp.com/login', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ userId }),
@@ -163,7 +163,7 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        fetch('https://roger-that-bridge-beginner-flashcards-5bffcbb5d89a.herokuapp.com/recordAction', {
+        fetch('https://bridge-beginner-backend-e99869ade150.herokuapp.com/recordAction', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ userId, actionType, actionValue }),
