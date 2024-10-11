@@ -1,0 +1,25 @@
+Beginning Bidding	Bidding	How many cards are dealt to each player in bridge?	13 cards.	How to play bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Bidding	Bidding	In which direction is the deal passed in bridge?	Clockwise.	How to play bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Bidding	Bidding	The player designated to deal the cards (often rotating after each hand), and acts first in the bidding.	Dealer	How to play bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Bidding	Bidding	A bid that declines to raise, overcall, or respond.	Pass	How to play bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Bidding	Bidding	The first bid made in the auction, usually based on the strength of the player's hand.	Opening bid	How to play bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Bidding	Bidding	The player who first bid the suit that becomes the contract.	Declarer	How to play bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Bidding	Bidding	A player who makes a bid after their partner has opened the bidding.	Responder	How to play bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Bidding	Bidding	A bid made after the partner's opening bid.	Response	How to play bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Bidding	Bidding	The partner of the declarer, whose cards are laid face-up on the table during play.	Dummy	How to play bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Bidding	Bidding	To reveal their hand and allow the declarer to control both hands.	Dummy	How to play bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Bidding	Bidding	What happens if a player makes the final bid in a suit their partner first bid?	The partner (not the player who made the final bid) becomes the declarer.	How to play bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Bidding	Bidding	A contract worth 100 or more points, requiring 3NT, 4♥/♠, or 5♦/♣.	"game" contract	Bid to Game	https://www.60secondbridge.com/lessons/learning-to-play-bridge/#:~:text=Bidding%20to%20'game'%20means%20you,your%20bonus%20is%20much%20smaller.
+Beginning Bidding	Bidding	A bid that requires your partner to bid again, usually showing strength.	Forcing bid	Forcing bid	https://en.wikipedia.org/wiki/Forcing_bid
+Beginning Bidding	Bidding	Either a bid indicating that the doubler believes the opponents will not make their contract or artificial (used to show strength in certain hands).	Double	Double Redoubles	https://bridge-tips.co.il/wp-content/uploads/2015/11/Doubles_and_Redoubles.pdf
+Beginning Bidding	Bidding	A bid that doubles the stakes after a double has been made by the opponents.	Redouble	Double Redoubles	https://bridge-tips.co.il/wp-content/uploads/2015/11/Doubles_and_Redoubles.pdf
+Beginning Bidding	Bidding	A high-level opening bid (e.g., 2♠ or 3♣) that shows a long suit and a weak hand. Used to disrupt opponents' bidding.	Preemptive Bid	Preempt	https://en.wikipedia.org/wiki/Preempt
+Beginning Bidding	Bidding: Hand Evaluation	What is the rank of suits from highest to lowest?	Spades, Hearts, Diamonds, Clubs.	How to play bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Bidding	Bidding: Hand Evaluation	What are the "major suits" in bridge?	Spades and Hearts.	How to play bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Bidding	Bidding: Hand Evaluation	What are the "minor suits" in bridge?	Diamonds and Clubs.	How to play bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Bidding	Bidding: Hand Evaluation	Why are major suits more valuable than minor suits in bridge?	Major suits score more points per trick.	How to play bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Bidding	Bidding: Hand Evaluation	A hand with no voids, no singletons, and at most one doubleton (e.g., 4-3-3-3 or 4-4-3-2 distribution).	balanced hand	Balanced hand	https://en.wikipedia.org/wiki/Balanced_hand
+Beginning Bidding	Bidding: Hand Evaluation	A hand containing exactly two cards in a suit.	Doubleton	Short suits	https://www.60secondbridge.com/lessons/beginners-bridge/#:~:text=singletons%20(1%20card%20in%20a,are%20worth%201%20extra%20points
+Beginning Bidding	Bidding: Hand Evaluation	A hand with only one card in a particular suit.	Singleton	Short suits	https://www.60secondbridge.com/lessons/beginners-bridge/#:~:text=singletons%20(1%20card%20in%20a,are%20worth%201%20extra%20points
+Beginning Bidding	Bidding: Hand Evaluation	A hand with no cards in a particular suit.	Void	Short suits	https://www.60secondbridge.com/lessons/beginners-bridge/#:~:text=singletons%20(1%20card%20in%20a,are%20worth%201%20extra%20points
+Beginning Bidding	Bidding: Hand Evaluation	A point system used to evaluate the strength of a hand. Aces = 4 points, Kings = 3 points, Queens = 2 points, Jacks = 1 point.	High Card Points (HCP)	High Card Points	https://www.bridgebum.com/high_card_points.php
