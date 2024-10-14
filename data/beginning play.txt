@@ -1,0 +1,29 @@
+Beginning Play	Basic play	A ______ is a round of 4 cards, 1 from each player.	trick	How to Play Bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Play	Basic play	The primary object is each side is to ______, done by winning tricks.	score points	How to Play Bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Play	Basic play	The first card to a trick is the ______. It can be any card in the hand.	lead	How to Play Bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Play	Basic play	Each of the players must play a card ______ if she can do so.	of the suit led ("follow" suit)	How to Play Bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Play	Basic play	If everyone follows suit, the trick is won by the ______.	highest card played	How to Play Bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Play	Basic play	In a ______, a trick can only be won by the highest card of the suit led.	NoTrump contract	How to Play Bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Play	Basic play	In each suit, the rank of cards is Ace (______), K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3, 2	always high	How to Play Bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Play	Basic play	_____ is the suit, designated by the bid,  that outranks all others for the duration of the hand.	Trump	How to Play Bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Play	Basic play	When you can't follow suit or trump, you ______ (usually) a worthless card.	discard	How to Play Bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Play	Basic play	If a player cannot follow suit, she may ______ any card or _____ if she has one.	discard, trump	How to Play Bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Play	Basic play	The player who wins the contract and plays both their own hand and the dummy’s hand.	Declarer	How to Play Bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Play	Basic play	Who plays the first card in a hand?	The player on declarer’s left.	How to Play Bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Play	Basic play	A player who did not win the contract and is trying to prevent the declarer from making their contract.	Defender	How to Play Bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Play	Basic play	To play a card that is not of the suit led and does not win the trick.	Discard	How to Play Bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Play	Basic play	The hand of declarer’s partner, which is laid out on the table after the opening lead. The declarer controls both hands during the play.	Dummy	How to Play Bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Play	Basic play	The action of playing the first card in a trick.	Lead	How to Play Bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Play	Basic play	The ______ is the first player to play a card in the play phase. The ______ plays the very first card and is the opponent to the left of the declarer.	leader, opening leader	How to Play Bridge	https://www.funbridge.com/how-to-play-bridge
+Beginning Play	Advanced play	Before playing from dummy, declarer "plans a line of play"? That is _____	firstly how to get the tricks to make the contract.	Plan the Play	https://kwbridge.com/tips.htm
+Beginning Play	Advanced play	Playing a trump card when you cannot follow suit.	trump in (in bridge, aka "Ruff")	Suit Contracts	https://www.60secondbridge.com/lessons/005-what-is-no-trumps/
+Beginning Play	Advanced play	When a player ruffs with a higher trump than another player who has already ruffed the same trick.	Over-ruff	Suit Contracts	https://www.60secondbridge.com/lessons/005-what-is-no-trumps/
+Beginning Play	Advanced play	What does "establishing a suit" mean?	Making cards in a suit winners.	Long Suits	https://www.60secondbridge.com/play-of-the-hand-lessons/setting-up-long-suits/#:~:text=In%20order%20to%20do%20this,this%20is%20called%20being%20established).
+Beginning Play	Advanced play	What does "trumping in" mean?	Using a trump to win an off-suit trick.	Suit Contracts	https://www.60secondbridge.com/lessons/005-what-is-no-trumps/
+Beginning Play	Advanced play	What does "cashing a winner" mean?	Playing a high card that will win.	Cashing Winners	https://milanbridge.com/beginner/start-learning-bridge/card-play-course/cashing-winners/
+Beginning Play	Advanced play	What is a "hold-up play"?	Letting opponents win early tricks.	Hold up Play	https://en.wikipedia.org/wiki/Hold_up_(bridge)#:~:text=In%20the%20card%20game%20of,from%20one%20of%20their%20hands.
+Beginning Play	Advanced play	What does "transportation" mean?	Moving between declarer and dummy.	Role of the Dummy	https://bridgechamp.com/blog/the-role-of-dummy-in-bridge-strategies-and-tips-tournaments/
+Beginning Play	Advanced play	What does "ducking" mean?	Letting opponents win on purpose.	Ducking	https://www.bridgebum.com/ducking_play.php
+Beginning Play	Advanced	A play technique used to win a trick with a lower card when the opponents’ higher card is on the wrong side.	Finesse	Finesse	https://en.wikipedia.org/wiki/Finesse
+Beginning Play	Advanced play	Usually, most of the trumps are in declarer and dummy hands.  To prevent defenders from trumping in, declarer leads trump until defenders have none.  This is ______.	drawing (aka pulling) trump	Suit Contracts	https://www.60secondbridge.com/lessons/005-what-is-no-trumps/
+Beginning Play	Advanced play	When should declarer "draw trumps"? Generally, early and often.  More specifically, ______	When opponents have trumps left, and there is no need to save trumps to ruff side suits	Suit Contracts	https://www.60secondbridge.com/lessons/005-what-is-no-trumps/
