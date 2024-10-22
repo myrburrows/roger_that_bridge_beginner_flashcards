@@ -1,0 +1,33 @@
+Play Bridge Free	BBO Getting Started	What is Bridge Base Online (BBO)?	A free site for playing bridge online with players worldwide.	How to Use BBO	https://www.youtube.com/watch?v=MldFbBdea90
+Play Bridge Free	BBO Getting Started	How do you sign up for BBO?	Go to bridgebase.com and create a free account.	How to Use BBO	https://www.youtube.com/watch?v=MldFbBdea90
+Play Bridge Free	BBO Getting Started	How do you create a free account on bridgebase.com?	Click register, makeup a username (must not exist already) and password, give email address. Don't agree to receive anything.	How to Use BBO	https://www.youtube.com/watch?v=MldFbBdea90
+Play Bridge Free	BBO Getting Started	Do you have to give a real email address to register on bridgebase?	Yes. They send a confirmation email that you have to open and click CONFIRM	How to Use BBO	https://www.youtube.com/watch?v=MldFbBdea90
+Play Bridge Free	BBO Basics	How can you play bridge for free on BBO?	Join casual games or play against robots for free.	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Basics	How do you join a casual game on BBO?	Click on "Casual," then select a table to join.	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Basics	Can you play against robots for free on BBO?	Yes, you can play against robots in casual games.	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Basics	Can you play with friends on BBO?	Yes, you can create private tables and invite friends.	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Basics	Are there free tournaments on BBO?	Some free tournaments are available, but many are paid.	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Basics	Is BBO mostly free or mostly "for profit"?	C'mon! It's for profit (moreso all the time) with enough free stuff to attract users.	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Basics	On BBO, can you play in bridge tournaments for free?	Yes, a few.  Most are paid and not cheap.	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Basics	On BBO, can you create a personal, private table and get friends to join it?	Yes, absolutely.  It's easy.	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Basics	On BBO, can you have more than 1 account?	Yes, apparently as many as you want.	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Basics	On BBO, can you save hands, create convention cards, and set preferences?	Yes, yes, and yes	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Basics	In BBO, computer-players, called "______", could be opponents and/or partner. There are standard (usually free) and advanced (usually rented) ones.	robots	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Basics	In BBO, the virtual currency used for entering paid tournaments and purchasing premium content is called ______.	BB$	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Basics	BB$ can be purchased using a ______ through the website and are used to enter paid tournaments, play advanced robots, and access other premium feature	credit card or Paypal	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Home, Top	At BBO Home, under Play or Watch Bridge, this option is for players who want to play bridge alone against robots for free.	Solitaire	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Home, Top	At BBO Home, under Play or Watch Bridge, this option is for joining structured games, including tournaments where players can compete for Master Points.	Competitive	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Home, Top	At BBO Home, under Play or Watch Bridge, BBO+ offers enhanced features and tournaments for users who pay for additional content.	BBO+	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Home, Top	At BBO Home, under Play or Watch Bridge, this option is for playing casual, social bridge games.	Casual	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Home, Top	At BBO Home, under Play or Watch Bridge, this option is for players who want to improve their bridge skills through various _____ modes.	Practice	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Home, Bottom	At BBO Home, the Featured Area where players play against computer-generated opponents (and/or partner) is ______.	Robot World	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Home, Bottom	At BBO Home, the Featured Area where players play head-to-head versus friends or robots is ______.	Challenges	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Home, Bottom	At BBO Home, the Featured Area where players play in pre-arranged tournaments (one free per week) is ______.	Instant Tournaments	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Home, Bottom	At BBO Home, the Featured Area where players track progress in accumulating points is ______.	Master Points and Races	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Home, Bottom	At BBO Home, the Featured Area where BBO users watch live broadcasts of high-level bridge matches is ______.	Vugraph (live broadcasts)	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Home, Bottom	At BBO Home, the Featured Area for ACBL-sanctioned stuff and ACBL master points is ______.	ACBL World	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Home, Bottom	At BBO Home, the Featured Area for ACBL stuff with focus on social bridge is ______.	ACBL Clubhouse	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Home, Bottom	At BBO Home, the Featured Area where real world clubs can host online games is ______.	Virtual Clubs	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	Learning Tools	Does BBO offer tools for learning bridge?	Yes, BBO has practice hands and tutorials.	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	Finding Partners	How can you find a partner on BBO?	Use the "Find Your Partner" option to connect with players.	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO App	Is there a BBO mobile app?	Yes, BBO is available on mobile devices via their app.	BBO	https://www.bridgebase.com/v3/login

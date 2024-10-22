@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let serverAvailable = false; // Keep track of server availability
 
     // Hardcoded list of flashcard file names without extensions
-    const files = ['Basics','Beginning Bidding','Beginning Play','Bridge Scoring']; // Add new filenames here as needed
+    const files = ['Basics','Beginning Bidding','Beginning Play','Bridge Scoring','NoTrump Bids','Suit Bids','Play Bridge Free']; // Add new filenames here as needed
 
     // Immediately check if the server is available before proceeding
     checkServerAvailability();

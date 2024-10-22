@@ -1,0 +1,25 @@
+Suit Bids	Opening Bids	What is the minimum number of high card points (HCP) needed to open a suit bid?	12-21 HCP	Suit Opening	https://www.ateacherfirst.com/wp-content/uploads/2018/03/Lesson-1-Opening-1-Level-in-a-Suit-ATF-8r.pdf
+Suit Bids	Opening Bids	What is the minimum length of a major suit to open 1 of a major?	5 cards	Suit Opening	https://www.ateacherfirst.com/wp-content/uploads/2018/03/Lesson-1-Opening-1-Level-in-a-Suit-ATF-8r.pdf
+Suit Bids	Opening Bids	When should you open 1 of a minor suit?	Fewer than 5 cards in a major, 12+ HCP	Minor Suits	https://www.andrew.cmu.edu/user/gc00/bidding/lessons/1minor.html
+Suit Bids	Opening Bids	Among "short club", preferred minor, and standard minors, we recommend opening standard minors. It promises at least _____ Diamonds or ______ Clubs.	4, 3	Minor Suits	https://www.andrew.cmu.edu/user/gc00/bidding/lessons/1minor.html
+Suit Bids	Responding	When should you bid no trump after your partner opens a suit?	Balanced hand, no fit, 6-9 HCP	SAYC	https://web2.acbl.org/documentlibrary/play/SP3%20(bk)%20single%20pages.pdf
+Suit Bids	Responding	How do you respond to 1 of a major with 6-9 HCP?	Raise to 2-level with 3+ cards, or bid 1NT	SAYC	https://web2.acbl.org/documentlibrary/play/SP3%20(bk)%20single%20pages.pdf
+Suit Bids	Responding	How do you respond to 1 of a minor with 6-9 HCP?	Bid a major, or 1NT if no major	SAYC	https://web2.acbl.org/documentlibrary/play/SP3%20(bk)%20single%20pages.pdf
+Suit Bids	Responding	When should you bid no trump as a responder?	Balanced hand, no fit, 6-9 HCP	SAYC	https://web2.acbl.org/documentlibrary/play/SP3%20(bk)%20single%20pages.pdf
+Suit Bids	Responding	What is a jump response in bidding?	Strong hand, 13+ HCP	Limit raises	https://www.bridgebum.com/limit_raise.php
+Suit Bids	Responding	When should you make a sign-off bid?	Weak hand, keep contract low	SAYC	https://web2.acbl.org/documentlibrary/play/SP3%20(bk)%20single%20pages.pdf
+Suit Bids	Rebids	When should the opener rebid their major suit?	6+ cards in major	SAYC	https://web2.acbl.org/documentlibrary/play/SP3%20(bk)%20single%20pages.pdf
+Suit Bids	Rebids	When should the opener support the responder's suit?	3+ cards in partner’s suit	SAYC	https://web2.acbl.org/documentlibrary/play/SP3%20(bk)%20single%20pages.pdf
+Suit Bids	Rebids	When should the responder rebid their own suit?	6+ cards, no fit	Responder rebids	http://www.rpbridge.net/3d00.htm
+Suit Bids	Rebids	When should the responder bid no trump for the second time?	Balanced hand, no fit	Responder rebids	http://www.rpbridge.net/3d00.htm
+Suit Bids	Rebids	When should the opener jump to game?	19+ HCP, strong hand	Opener Rebid	https://www.bridgewebs.com/porthcawl/TUTORIAL%204a%20-%20OPENERS%20REBID%20AFTER%20SUIT%20OPENING%204%20CARD%20MAJORS.htm
+Suit Bids	Play of the Hand	How do you count winners in no trump contracts?	Count sure tricks, develop extra	NoTrump Play	http://www.rpbridge.net/4c00.htm
+Suit Bids	Play of the Hand	How do you count losers in suit contracts?	Count losing cards in each suit	Suit contracts	http://www.bidandmade.com/bridge_bid_and_play/Bridge_Play_1300_Start_with_a_quick_plan_-_Suit_contracts.php
+Suit Bids	Play of the Hand	What should you lead in a suit contract as a defender?	Partner’s suit, or strong suit	Suit contracts	http://www.bidandmade.com/bridge_bid_and_play/Bridge_Play_1300_Start_with_a_quick_plan_-_Suit_contracts.php
+Suit Bids	Play of the Hand	What should you lead in a no trump contract as a defender?	Longest, strongest suit	Suit contracts	http://www.bidandmade.com/bridge_bid_and_play/Bridge_Play_1300_Start_with_a_quick_plan_-_Suit_contracts.php
+Suit Bids	Play of the Hand	What is a finesse in bridge?	Leading towards a high card	NoTrump Play	http://www.rpbridge.net/4c00.htm
+Suit Bids	Play of the Hand	How do you establish a long suit?	Keep playing it until opponents’ cards are gone	Suit contracts	http://www.bidandmade.com/bridge_bid_and_play/Bridge_Play_1300_Start_with_a_quick_plan_-_Suit_contracts.php
+Suit Bids	Play of the Hand	What is ruffing in the dummy?	Using dummy's trumps to win a trick	Suit contracts	http://www.bidandmade.com/bridge_bid_and_play/Bridge_Play_1300_Start_with_a_quick_plan_-_Suit_contracts.php
+Suit Bids	Play of the Hand	When should you draw trumps in a trump contract?	When opponents’ trumps are a threat	Suit contracts	http://www.bidandmade.com/bridge_bid_and_play/Bridge_Play_1300_Start_with_a_quick_plan_-_Suit_contracts.php
+Suit Bids	Play of the Hand	What should you do before playing the first card?	Make a plan, count winners or losers	Suit contracts	http://www.bidandmade.com/bridge_bid_and_play/Bridge_Play_1300_Start_with_a_quick_plan_-_Suit_contracts.php
+Suit Bids	Play of the Hand	How do you manage communication between the hands?	Use entries carefully	Suit contracts	http://www.bidandmade.com/bridge_bid_and_play/Bridge_Play_1300_Start_with_a_quick_plan_-_Suit_contracts.php
