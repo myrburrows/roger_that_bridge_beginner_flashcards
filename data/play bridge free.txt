@@ -7,7 +7,7 @@ Play Bridge Free	BBO Basics	How do you join a casual game on BBO?	Click on "Casu
 Play Bridge Free	BBO Basics	Can you play against robots for free on BBO?	Yes, you can play against robots in casual games.	BBO	https://www.bridgebase.com/v3/login
 Play Bridge Free	BBO Basics	Can you play with friends on BBO?	Yes, you can create private tables and invite friends.	BBO	https://www.bridgebase.com/v3/login
 Play Bridge Free	BBO Basics	Are there free tournaments on BBO?	Some free tournaments are available, but many are paid.	BBO	https://www.bridgebase.com/v3/login
-Play Bridge Free	BBO Basics	Is BBO mostly free or mostly "for profit"?	C'mon! It's for profit (moreso all the time) with enough free stuff to attract users.	BBO	https://www.bridgebase.com/v3/login
+Play Bridge Free	BBO Basics	Is BBO mostly free or mostly "for profit"?	C'mon! It's for profit (more so all the time) with enough free stuff to attract users.	BBO	https://www.bridgebase.com/v3/login
 Play Bridge Free	BBO Basics	On BBO, can you play in bridge tournaments for free?	Yes, a few.  Most are paid and not cheap.	BBO	https://www.bridgebase.com/v3/login
 Play Bridge Free	BBO Basics	On BBO, can you create a personal, private table and get friends to join it?	Yes, absolutely.  It's easy.	BBO	https://www.bridgebase.com/v3/login
 Play Bridge Free	BBO Basics	On BBO, can you have more than 1 account?	Yes, apparently as many as you want.	BBO	https://www.bridgebase.com/v3/login

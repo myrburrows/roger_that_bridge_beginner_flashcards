@@ -7,7 +7,7 @@ Base Basics	Cards	In bridge, the four suits are ranked: highest ______, then ___
 Base Basics	Cards	A suit that outranks all others during play. If a player cannot follow the lead suit, she can play a card from this suit to win, even if this card is lower than the other cards.	Trump	Beginner Bridge	https://www.youtube.com/watch?v=2IomnCvxWzM
 Base Basics	Cards	A high card (Ace, King, Queen, Jack, or 10) in any suit.	Honor	Beginner Bridge	https://www.youtube.com/watch?v=2IomnCvxWzM
 Base Basics	Bid	The process of players making successive bids in an attempt to determine the contract.	Auction	Beginner Bridge	https://www.youtube.com/watch?v=2IomnCvxWzM
-Base Basics	Bid	A trick in which all four players play one card. The highest card in the suit led wins the trick unless a trump is played.	Trick	Beginner Bridge	https://www.youtube.com/watch?v=2IomnCvxWzM
+Base Basics	Bid	A ______ is one round in which all four players play one card. The highest card in the suit led wins the trick unless a trump is played.	Trick	Beginner Bridge	https://www.youtube.com/watch?v=2IomnCvxWzM
 Base Basics	Bid	The final bid that becomes the goal of the declarer and their partner.	Contract	Beginner Bridge	https://www.youtube.com/watch?v=2IomnCvxWzM
 Base Basics	Bid	The promise or bet each team makes at the beginning of the game concerning how many tricks they will take.	Bid	Beginner Bridge	https://www.youtube.com/watch?v=2IomnCvxWzM
 Base Basics	Bid	The minimum number of tricks declarer must win after the contract has been established, typically 6 tricks.	Book	Beginner Bridge	https://www.youtube.com/watch?v=2IomnCvxWzM
