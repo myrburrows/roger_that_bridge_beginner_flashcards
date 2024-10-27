@@ -4,22 +4,17 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>ROGER THAT BRIDGE Beginner Flashcards</title>
-    <!-- <title>{{App Title}}</title> -->
     <link rel="stylesheet" href="styles.css" />
     <link rel="icon" href="favicon.png" type="image/x-icon" />
-    <!-- Google tag (gtag.js) -->
   </head>
   <body>
     <h1>ROGER THAT BRIDGE Beginner Flashcards</h1>
-    <!-- Updated heading -->
 
-    <!-- Dropdown for selecting text files -->
     <label for="file-select">Choose a category:</label>
     <select id="file-select">
       <!-- Options will be populated by app.js -->
     </select>
 
-    <!-- Text fields for flashcard content -->
     <div class="flashcard-fields">
       <div class="flashcard-row">
         <label>Deck:</label> <input type="text" id="deck" readonly />
@@ -35,16 +30,13 @@
       </div>
       <div class="flashcard-row">
         <label>More Info:</label>
-        <!-- Changed label from URL to More Info -->
         <input type="text" id="url" readonly />
       </div>
     </div>
 
-    <!-- Buttons for navigating the flashcards -->
     <div class="flashcard-buttons">
       <button id="last-btn">Last</button>
       <button id="next-btn">Next</button>
-      <button id="answer-btn">Answer</button>
     </div>
 
     <script src="app.js"></script>

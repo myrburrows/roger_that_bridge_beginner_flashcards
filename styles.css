@@ -24,19 +24,17 @@ input, textarea, select {
     display: inline-block;
 }
 
-/* Deck and Title fields */
 #deck, #title {
-    background-color: #FFF9C4; /* Pale yellow background */
-    text-align: center; /* Center the text */
+    background-color: #FFF9C4;
+    text-align: center;
 }
 
-/* Ensure dropdown aligns with the labels */
 select {
     width: 320px;
 }
 
 textarea {
-    height: 30px; /* Initially one line */
+    height: 30px;
     resize: none;
     overflow: hidden;
 }
@@ -46,16 +44,14 @@ textarea.expanding {
     height: auto;
 }
 
-/* Button container aligned with labels and input fields */
 .flashcard-buttons {
     margin-top: 20px;
     display: flex;
-    justify-content: flex-start; /* Align to the left under labels */
-    gap: 10px; /* Space between Last and Next */
-    margin-left: 160px; /* Align the buttons with the labels and text boxes */
+    justify-content: flex-start;
+    gap: 10px;
+    margin-left: 160px;
 }
 
-/* Buttons close together */
 button {
     padding: 10px 20px;
     font-size: 16px;
@@ -63,12 +59,6 @@ button {
     border-radius: 5px;
     color: white;
     cursor: pointer;
-}
-
-/* Add a larger gap between Next and Answer */
-#answer-btn {
-    background-color: #2196F3;
-    margin-left: 30px; /* Extra space between Next and Answer */
 }
 
 #next-btn {
