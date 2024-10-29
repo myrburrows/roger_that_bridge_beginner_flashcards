@@ -156,6 +156,27 @@ document.addEventListener('DOMContentLoaded', () => {
         autoExpand(document.getElementById('answer'));
     }
 
+        // Record a user action (only if server is available)
+        function recordAction(actionType, actionValue = null) {
+            if (!userId || !serverAvailable) {
+                console.warn('Skipping action recording. Server is not available.');
+                return;
+            }
+    
+            fetch('https://bridge-beginner-backend-e99869ade150.herokuapp.com/recordAction', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ userId, actionType, actionValue }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log(data.message); // Action recorded successfully
+            })
+            .catch(error => {
+                console.error('Error recording action.', error);
+            });
+        }
+    
     // Clear the fields on the page
     function clearFields() {
         document.getElementById('deck').value = '';
